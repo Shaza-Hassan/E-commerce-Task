@@ -249,7 +249,7 @@
 		C6E3AC332AB870D700BBF9D4 /* E-commerce Task */ = {
 			isa = PBXGroup;
 			children = (
-				C6FFF95C2AB8C4FB00385095 /* Comman */,
+				C6FFF95C2AB8C4FB00385095 /* Shared */,
 				C6E3AC652AB8741E00BBF9D4 /* CartModule */,
 				C6E3AC642AB8741000BBF9D4 /* ProductModule */,
 				C6E3AC342AB870D700BBF9D4 /* AppDelegate.swift */,
@@ -364,14 +364,14 @@
 			path = ProductCell;
 			sourceTree = "<group>";
 		};
-		C6FFF95C2AB8C4FB00385095 /* Comman */ = {
+		C6FFF95C2AB8C4FB00385095 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
 				C6FFF95D2AB8C50A00385095 /* PaddingLabel.swift */,
 				C690D80E2AB9719400A1FF31 /* AppConstants.swift */,
 				C6B870262AB979C100E5FE9D /* ProgressIndicator.swift */,
 			);
-			path = Comman;
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
